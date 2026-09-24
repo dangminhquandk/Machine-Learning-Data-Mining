@@ -1,0 +1,4 @@
+{
+  "python.condaPath": "/opt/homebrew/bin/conda",
+  "python.defaultInterpreterPath": "/opt/homebrew/Caskroom/miniconda/base/envs/course/bin/python"
+}
