@@ -1,4 +1,8 @@
 {
   "python.condaPath": "/opt/homebrew/bin/conda",
-  "python.defaultInterpreterPath": "/opt/homebrew/Caskroom/miniconda/base/envs/course/bin/python"
+  "python.defaultInterpreterPath": "/opt/homebrew/Caskroom/miniconda/base/envs/course/bin/python",
+  "python.analysis.extraPaths": [
+    "/opt/homebrew/Caskroom/miniconda/base/envs/course/lib/python3.10/site-packages",
+    "/Users/quandkh/.venv/lib/python3.9/site-packages"
+  ]
 }
