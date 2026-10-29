@@ -1,0 +1,788 @@
+﻿Thuộc tính,OLS,Ridge,Lasso
+bath,1.212,1.5351,4.3225
+balcony,-0.4003,-0.6873,-0.0
+total_sqft_float,19.1387,19.097,18.3537
+bhk,3.2677,3.4064,3.0808
+area_type_Built-up  Area,186448986151410.3,-1.2512,-0.0
+area_type_Carpet  Area,35110940303271.24,-0.0318,0.0
+area_type_Plot  Area,130737356698806.53,4.0865,6.0565
+area_type_Super built-up  Area,214726121909871.22,-1.3965,-0.0
+availability_14-Jul,-37420207545459.71,0.0,0.0
+availability_15-Dec,-3392017590995.236,-0.1787,0.0
+availability_15-Jun,-3392017590994.9907,0.0539,0.0
+availability_15-Nov,-3392017590994.9067,0.1026,0.0
+availability_15-Oct,-3392017590995.0483,0.1476,0.0
+availability_16-Dec,-35498331760078.06,0.0,0.0
+availability_16-Jul,2298066871296.4795,0.0,0.0
+availability_16-Mar,-3392017590995.2124,-0.0518,0.0
+availability_16-Nov,-3392017590995.2407,-0.0293,-0.0
+availability_16-Oct,-3392017590994.817,0.1423,0.0
+availability_16-Sep,38903506461545.0,0.0,0.0
+availability_17-Apr,-5874041313959.844,-0.2279,-0.0
+availability_17-Aug,-5874041313959.515,0.3581,0.0
+availability_17-Dec,-11239461347264.363,-0.4287,-0.0
+availability_17-Jul,-8969368025678.125,-0.0427,-0.0
+availability_17-Jun,-8969368025677.732,0.149,0.0
+availability_17-Mar,-3392017590995.117,-0.0685,-0.0
+availability_17-May,-4796585986267.185,0.0282,-0.0
+availability_17-Nov,-5874041313959.594,0.1637,-0.0
+availability_17-Oct,-12216279235734.354,-0.2192,-0.0
+availability_17-Sep,-8304803233788.591,-0.0056,-0.0
+availability_18-Apr,-36589485313369.29,-0.0145,-0.0
+availability_18-Aug,-33271435322246.824,-0.3157,-0.0
+availability_18-Dec,-34576279140709.574,-0.301,-0.0
+availability_18-Feb,-17255238697651.78,0.3116,0.0
+availability_18-Jan,-13119914144073.627,0.1329,0.0
+availability_18-Jul,-24109640643268.508,-0.4274,-0.0
+availability_18-Jun,-21374149884109.67,-0.2801,-0.0
+availability_18-Mar,-25251858495278.125,0.2335,-0.0
+availability_18-May,-35675707627461.305,-0.1003,-0.0
+availability_18-Nov,-15514903939668.633,-0.16,-0.0
+availability_18-Oct,-13119914144074.117,-0.4011,-0.0
+availability_18-Sep,-14760404130433.936,-0.308,-0.0
+availability_19-Apr,-10168391523811.633,-0.4064,-0.0
+availability_19-Aug,-9587754651459.262,-0.0271,-0.0
+availability_19-Dec,-28589334837609.08,0.2032,0.0
+availability_19-Feb,-3392017590995.133,0.0435,-0.0
+availability_19-Jan,-11239461347264.227,-0.3712,-0.0
+availability_19-Jul,-6782120320443.297,-0.1533,-0.0
+availability_19-Jun,-13119914144073.406,0.2593,0.0
+availability_19-Mar,-21374149884109.008,0.3874,0.0
+availability_19-May,-3392017590995.4766,-0.3631,-0.0
+availability_19-Nov,-3392017590995.248,-0.136,-0.0
+availability_19-Oct,-5874041313959.531,0.248,0.0
+availability_19-Sep,-8304803233788.494,-0.0107,-0.0
+availability_20-Apr,-190315552767429.0,0.0548,0.0
+availability_20-Aug,-8304803233788.281,0.3491,0.0
+availability_20-Dec,-18528090705441.465,-0.2825,-0.0
+availability_20-Jan,-12676236725954.676,-0.1412,0.0
+availability_20-Jun,-8304803233788.374,0.0013,0.0
+availability_20-Mar,-4796585986267.152,0.0644,0.0
+availability_20-Nov,-4796585986267.218,0.0598,0.0
+availability_20-Oct,-5874041313959.707,-0.0095,0.0
+availability_20-Sep,-6782120320443.217,-0.0343,0.0
+availability_21-Dec,-19132109377106.867,0.5355,0.0
+availability_21-Feb,-3392017590995.0254,0.0657,0.0
+availability_21-Jan,-10168391523811.09,0.1845,0.0
+availability_21-Jul,-6782120320443.297,0.0112,0.0
+availability_21-Jun,-10168391523811.592,-0.1295,0.0
+availability_21-Mar,-11738128029920.996,0.1395,0.0
+availability_21-Oct,-4796585986267.137,0.0696,-0.0
+availability_21-Sep,-6782120320443.024,0.296,0.0
+availability_22-Dec,-6782120320443.327,-0.0364,-0.0
+availability_22-Jan,-8304803233787.989,0.4855,0.0
+availability_22-Jun,-13964580112696.549,1.597,0.6221
+availability_22-Mar,-3392017590995.1016,0.0491,-0.0
+availability_22-May,-45720178737080.79,0.0,0.0
+availability_22-Nov,-4796585986267.332,-0.078,-0.0
+availability_Ready To Move,-99653815637942.42,-0.0014,0.0
+location_ Devarabeesana Halli,23910709226.0947,0.8399,0.0
+location_ Devarachikkanahalli,50688855304.3438,-0.6508,-0.0
+location_ Mysore Highway,16909015399.1099,-0.0551,0.0
+location_1st Block BEL Layout,4266982011260.596,0.0,0.0
+location_1st Block HRBR Layout,23910709227.0781,1.7319,0.5285
+location_1st Block Jayanagar,41398973327.5781,2.3863,1.2426
+location_1st Block Koramangala,33808485322.188,-0.0897,-0.0
+location_1st Phase JP Nagar,50688855305.7529,0.8342,0.0
+location_1st Stage Indira Nagar,-139048599457228.84,0.0,0.0
+location_2nd Block Hrbr Layout,29281762954.644,1.1945,0.0883
+location_2nd Block Jayanagar,23910709226.9012,1.5692,0.598
+location_2nd Phase JP Nagar,29281762953.8501,0.1743,0.0
+location_2nd Phase Judicial Layout,44711791137.5859,-1.1139,-0.0
+location_2nd Stage Arekere Mico Layout,23910709227.0352,1.6387,0.5015
+location_2nd Stage Nagarbhavi,44711791142.5644,3.79,2.5177
+location_3rd Block Banashankari,23910709226.457,1.0696,0.0132
+location_3rd Block Hrbr Layout,29281762954.5606,1.0485,0.0016
+location_3rd Block Jayanagar,16909015400.1426,1.037,0.0797
+location_4th Block Jayanagar,16909015400.4922,1.3017,0.3829
+location_4th Block Koramangala,23910709225.9502,0.5603,0.0
+location_4th Phase JP Nagar,16909015398.8267,-0.2289,-0.0
+location_5th Block Hbr Layout,29281762956.2969,2.7054,1.4785
+location_5th Phase JP Nagar,71624056612.2577,-0.1702,0.0
+location_6th Phase JP Nagar,60897459455.6582,0.6707,0.0
+location_6th block Koramangala,23910709225.9458,0.5865,0.0
+location_7th Block Jayanagar,16909015401.8086,2.4396,1.5182
+location_7th Phase JP Nagar,146365636218.0596,0.9973,0.2921
+location_8th Block Jayanagar,16909015401.5508,2.3432,1.1664
+location_8th Phase JP Nagar,87646655956.6216,-0.9358,-0.0
+location_8th block Koramangala,29281762955.7363,2.1499,1.1412
+location_9th Block Jayanagar,29281762956.2656,2.8447,1.5969
+location_9th Phase JP Nagar,77340916605.8906,-0.7442,-0.0
+location_A Narayanapura,23910709225.8652,0.4952,0.0
+location_AECS Layout,37795477639.5591,-0.2462,-0.0
+location_AGS Layout,29281762953.0254,-0.3943,-0.0
+location_AMS Layout,16909015399.1133,-0.251,-0.0
+location_Abbaiah Reddy Layout,29281762952.9802,-0.5383,-0.0
+location_Abbigere,58513902799.5352,-0.618,-0.0
+location_Adityanagar,23910709224.5898,-0.828,-0.0
+location_Agrahara Dasarahalli,16909015399.5898,0.3005,0.0
+location_Akshaya Nagar,98289096329.0234,-0.8127,-0.0
+location_Akshaya Vana,33808485321.6348,-0.6231,-0.0
+location_Akshayanagara East,23910709224.8533,-0.5002,-0.0
+location_Akshya Nagar,16909015398.9668,-0.2833,-0.0
+location_Alfa Garden Layout,23910709224.9199,-0.422,-0.0
+location_Amarjyothi Colony,16909015398.9805,-0.2999,-0.0
+location_Ambalipura,60897459455.3779,0.3719,0.0
+location_Ambedkar Colony,29281762955.1055,1.5393,0.6536
+location_Ambedkar Nagar,58513902800.6797,0.3843,0.0
+location_Amblipura,23910709225.5122,0.2024,0.0
+location_Amruthahalli,58513902800.085,-0.1173,0.0
+location_Amruthnagar,29281762953.3066,-0.2422,-0.0
+location_Anand Nagar,16909015399.1875,-0.0821,-0.0
+location_Anandapura,69612640215.1894,-1.1708,-0.1355
+location_Anantapura,-29839921398173.934,0.0,0.0
+location_Ananth Nagar,63190321467.7383,-1.2125,-0.1068
+location_Anekal,86016386714.7852,-1.6097,-0.5969
+location_Anjana Nagar,-129666279947238.19,0.0,0.0
+location_Anjanapura,53425710690.8106,-0.9921,-0.0
+location_Anjappa Layout,16909015399.2212,0.057,0.0
+location_Ankappa Layout,16909015399.1663,-0.1389,-0.0
+location_Annaiah Reddy Layout,16909015398.9473,-0.234,-0.0
+location_Anugrah Layout,16909015399.1885,0.0527,0.0
+location_Anwar Layout,148001480751960.94,0.0,0.0
+location_Ardendale,50688855304.4238,-0.4782,-0.0
+location_Arehalli,16909015399.123,-0.199,-0.0
+location_Arekere,44711791138.7969,0.0159,0.0
+location_Ashirvad Colony,23910709225.2754,-0.0674,-0.0
+location_Ashwath Nagar,29281762953.2734,-0.248,-0.0
+location_Ashwathnagar,23910709225.1226,-0.1091,-0.0
+location_Ashwini layout,16909015399.5034,0.3043,0.0
+location_Atmananda Colony,23910709225.1816,-0.125,-0.0
+location_Attibele,67540552870.8106,-1.3162,-0.1711
+location_Attur Layout,23910709225.8438,0.4403,0.0
+location_Austin Town,16909015399.25,0.0758,0.0
+location_Avalahalli,16909015399.4966,0.1529,0.0
+location_Ayappa Nagar,16909015398.8623,-0.2626,-0.0
+location_B Channasandra,23910709225.3008,-0.0848,-0.0
+location_B Narayanapura,47794413411.9102,-0.4131,-0.0
+location_BCC Layout,62145152924797.016,0.0,0.0
+location_BCMC Layout,16909015399.2637,-0.0984,-0.0
+location_BEL Road,-47726488754978.57,0.0,0.0
+location_BEML Layout,37795477639.6584,-0.0798,0.0
+location_BHEL Layout,16909015399.9854,0.9467,0.0
+location_BSM Extension,16909015399.0869,-0.0958,-0.0
+location_BTM 1st Stage,33808485323.9961,1.8234,0.6717
+location_BTM 2nd Stage,58513902800.4309,0.1905,0.0
+location_BTM 4th Stage,16909015399.0815,-0.0818,-0.0
+location_BTM Layout,50688855304.5312,-0.2882,-0.0
+location_Baba Nagar,23910709225.3057,-0.1405,-0.0
+location_Babusapalaya,63190321468.0488,-0.9749,-0.0
+location_Badavala Nagar,44711791139.0215,0.2301,0.0
+location_Bagalakunte,16909015399.6094,0.3165,0.0
+location_Bagalur,23910709225.2778,-0.1034,-0.0
+location_Bagalur Main Road,16909015399.2738,0.0654,0.0
+location_Balagere,80924784251.875,0.7826,0.0
+location_Balaji Gardens Layout,23910709225.1367,-0.233,-0.0
+location_Banagiri Nagar,44711791139.6055,0.8562,0.0
+location_Banashankari,106548925481.792,-0.0415,0.0
+location_Banashankari Stage II,50688855306.6562,1.7167,0.8213
+location_Banashankari Stage III,67540552872.501,0.4654,0.0
+location_Banashankari Stage V,53425710690.6562,-1.2289,-0.2227
+location_Banashankari Stage VI,41398973325.4258,0.4013,0.0
+location_Banaswadi,44711791138.5039,-0.2372,-0.0
+location_Banjara Layout,41398973325.0703,0.0005,-0.0
+location_Bank Of Baroda Colony,23910709225.2871,-0.1769,-0.0
+location_Bannerghatta,41398973325.0674,-0.0004,0.0
+location_Bannerghatta Road,140549675858.8008,-0.2933,0.0
+location_Basapura,44711791138.3027,-0.4871,-0.0
+location_Basava Nagar,23910709225.1543,-0.1816,-0.0
+location_Basavanagara,16909015402.2188,2.8823,1.8808
+location_Basavanapura,41398973324.3657,-0.715,-0.0
+location_Basavangudi,60897459457.8782,2.8361,1.9566
+location_Basavanna Nagar,23910709225.2739,-0.0983,-0.0
+location_Basaveshwara Nagar,47794413414.0117,1.7883,0.7867
+location_Basaveshwara Nagar Yelahanka,33808485321.8379,-0.3886,-0.0
+location_Battarahalli,56028077655.7234,-0.6353,-0.0
+location_Begur,44711791138.2109,-0.6102,-0.0
+location_Begur Road,117827424374.1992,-2.2683,-0.9568
+location_Belathur,23910709225.0103,-0.3586,-0.0
+location_Belatur,23910709225.1152,-0.2289,-0.0
+location_Bellandur,128082847135.959,-0.2093,0.0
+location_Bellari Road,29281762953.0703,-0.2974,-0.0
+location_Benson Town,33808485323.3867,1.1935,0.2585
+location_Bethel Nagar,16909015398.9463,-0.2601,-0.0
+location_Bhagyalakshmi Avenue,16909015399.1636,0.0412,0.0
+location_Bharathi Nagar,41398973324.7754,-0.2965,-0.0
+location_Bhoganhalli,65402028246.6875,0.2289,0.0
+location_Bhuvaneshwari Nagar,29281762953.2446,-0.0667,-0.0
+location_Bhuvaneswari Nagar,16909015398.9404,-0.274,-0.0
+location_Bidadi,16909015399.2207,0.0029,-0.0
+location_Bidrahalli,16909015398.3926,-0.7719,-0.0
+location_Bikasipura,16909015398.9678,-0.2436,-0.0
+location_Billekahalli,37795477640.1963,0.4328,0.0
+location_Binny Pete,47794413413.6562,1.3549,0.4999
+location_Bisuvanahalli,73579777829.1396,-0.8055,-0.0
+location_Bommanahalli,71624056612.1384,-0.3894,-0.0
+location_Bommasandra,82657492015.8164,-1.1536,-0.0623
+location_Bommasandra Industrial Area,58513902798.9922,-1.3258,-0.299
+location_Bommenahalli,37795477640.5322,0.7255,0.0
+location_Brindavan Nagar,23910709225.7451,0.3647,0.0
+location_Brooke Bond First Cross,23910709225.0981,-0.1114,-0.0
+location_Brookefield,63190321469.3262,0.306,0.0
+location_Budigere,93879340052.9053,-0.5437,-0.0
+location_Byagadadhenahalli,23910709225.1797,-0.1574,-0.0
+location_Byatarayanapura,37795477640.0156,0.2194,0.0
+location_Byrasandra,29281762953.0723,-0.2882,-0.0
+location_Byrathi Village,33808485321.8457,-0.3547,-0.0
+location_CV Raman Nagar,93879340053.2479,-0.116,0.0
+location_Cambridge Layout,23910709228.4238,2.9876,1.9973
+location_Canara Bank Colony,23910709225.1953,-0.1693,-0.0
+location_Canara Bank Layout,16909015398.9629,-0.3253,-0.0
+location_Carmelaram,16909015399.0371,-0.2137,-0.0
+location_Celebrity Paradise Layout,-38552496699517.58,0.0,0.0
+location_Challaghatta,16909015399.5264,0.3329,0.0
+location_Chamrajpet,44711791140.7402,1.9712,1.0331
+location_Chandapura,121346232563.9726,-1.9066,-0.7455
+location_Chandra Layout,41398973327.0869,1.977,0.8675
+location_Channasandra,80924784249.8223,-1.3455,-0.1966
+location_Channasandra Layout,29281762952.6904,-0.8454,-0.0
+location_Chelekare,23910709225.1777,-0.1658,-0.0
+location_Chennammana Kere,41398973325.0566,-0.0705,-0.0
+location_Chennammanakere Achukattu,-40725775596486.62,0.0,0.0
+location_Chennappa Layout,23910709225.1067,-0.2599,-0.0
+location_Chikka Banaswadi,23910709225.5576,0.1205,0.0
+location_Chikka Tirupathi,16909015398.916,-0.3262,-0.0
+location_Chikkabanavar,44711791138.1289,-0.6528,-0.0
+location_Chikkadunnasandra,29281762952.9082,-0.6926,-0.0
+location_Chikkakannalli,16909015399.2617,0.0291,0.0
+location_Chikkalasandra,56028077655.9295,-0.4263,-0.0
+location_Chikkasandra,16909015399.3379,0.0817,0.0
+location_Chikkathoguru,16909015399.0217,-0.1956,-0.0
+location_Chinnapanahalli,29281762953.1946,-0.35,-0.0
+location_Chokkanahalli,16909015399.3037,-0.0424,0.0
+location_Cholanayakanahalli,23910709225.2227,-0.0023,-0.0
+location_Choodasandra,58513902799.7889,-0.4161,-0.0
+location_Classic Paradise Layout,14208804909122.246,0.0,0.0
+location_Cleveland Town,16909015399.7642,0.5253,0.0
+location_Coconut Garden,16909015399.7852,0.4904,0.0
+location_Coconut Grove Layout,23910709225.0559,-0.2421,-0.0
+location_Coffee Board Layout,16909015399.1582,-0.1452,-0.0
+location_Cooke Town,41398973326.0352,0.9368,0.0
+location_Cottonpet,23910709226.7031,1.351,0.2954
+location_Cox Town,50688855306.1836,1.3017,0.3694
+location_Crimson Layout,16909015399.0728,-0.1263,-0.0
+location_D Group Employees Layout,16909015401.3477,2.0659,1.0269
+location_Daadys Gaarden Layout,16909015398.9248,-0.3343,-0.0
+location_Dairy Circle,16909015400.5325,1.2703,0.3324
+location_Dasanapura,50688855304.8516,-0.0153,0.0
+location_Dasappa Layout,29322723867553.957,0.0,0.0
+location_Dasarahalli,44711791138.3604,-0.3668,-0.0
+location_Defence Colony,23910709226.5166,1.2138,0.2645
+location_Dena Bank Colony,16909015399.4932,0.2096,0.0
+location_Devanahalli,65402028246.1328,-0.3501,-0.0
+location_Devanahalli Int. Airport,16909015399.2018,0.0332,0.0
+location_Devanahalli Road,23910709226.1916,0.8858,0.0
+location_Devara Jeevanahalli,16909015398.3789,-0.8868,-0.0
+location_Devarachikkanahalli,16909015399.0088,-0.1492,-0.0
+location_Devasandra Extension,-6968512335617.728,0.0,0.0
+location_Devasthanagalu,33808485321.7949,-0.4373,-0.0
+location_Devi Nagar,29281762953.1692,-0.2936,-0.0
+location_Dinnur,16909015399.21,0.0279,0.0
+location_Divya Unnathi Layout,29281762952.8828,-0.5688,-0.0
+location_Doctors Layout,33808485321.6211,-0.5945,-0.0
+location_Dodda Banaswadi,33808485321.5312,-0.6717,-0.0
+location_Dodda Kempaiah Layout,16909015399.125,-0.1428,-0.0
+location_Dodda Nekkundi,65402028245.7031,-0.7747,-0.0
+location_Dodda Nekkundi Extension,23910709225.3047,-0.0214,0.0
+location_Doddaballapur,16909015398.7969,-0.3713,-0.0
+location_Doddabanahalli,23910709224.9907,-0.3661,-0.0
+location_Doddabidrakallu,16909015398.8418,-0.2443,-0.0
+location_Doddabommasandra,16909015399.2289,-0.0268,0.0
+location_Doddagubbi,23910709225.0215,-0.2296,-0.0
+location_Doddakallasandra,41398973324.543,-0.506,-0.0
+location_Doddakammanahalli,29281762953.3594,-0.291,-0.0
+location_Doddakannelli,23910709225.0625,-0.2612,-0.0
+location_Doddanakundi Industrial Area 2,23910709225.1647,-0.2233,-0.0
+location_Doddanekundi,23910709224.9878,-0.4291,-0.0
+location_Doddathoguru,69612640215.3848,-0.9794,-0.0
+location_Dodsworth Layout,29281762953.2988,0.0316,0.0
+location_Dollars Colony,16909015399.2393,0.0863,0.0
+location_Domlur,63190321470.7334,1.7335,0.8787
+location_Dommasandra,44711791138.1582,-0.6305,-0.0
+location_Doopanahalli,23910709225.9082,0.5812,0.0
+location_Dooravani Nagar,29281762953.6016,0.1734,0.0
+location_Dr Shivarama Karantha Nagar,3144226982461.681,0.0,0.0
+"location_ECC Road, Whitefield, ",16909015399.3604,0.1115,0.0
+location_EPIP Zone,50688855305.4072,0.5034,0.0
+location_Ejipura,37795477640.0371,0.2241,0.0
+location_Electronic City,182396510045.9102,-0.6524,-0.0
+location_Electronic City Phase II,147311362722.627,-2.1313,-0.9105
+"location_Electronic city Phase 1, ",16909015398.8203,-0.345,-0.0
+location_Electronics City Phase 1,103870728238.3717,-0.4455,-0.0
+location_Esther Enclave Layout,16909015399.2588,-0.1008,-0.0
+location_Frazer Town,53425710694.1121,2.1876,1.243
+location_Friends Colony,16909015399.2305,0.0972,0.0
+location_GD Layout,16909015398.9609,-0.1421,-0.0
+location_GM Palaya,41398973324.3164,-0.7481,-0.0
+location_Gandhi Bazar,16909015402.8828,3.7227,2.5227
+location_Ganga Nagar,37795477640.03,0.2438,0.0
+location_Garebhavipalya,-1973900808000.0789,0.0,0.0
+location_Garudachar Palya,60897459454.3711,-0.6482,-0.0
+location_Gattahalli,-15029891381974.457,0.0,0.0
+location_Gattigere,16909015399.4375,0.1045,-0.0
+location_Gaurava Nagar,24354779287374.633,0.0,0.0
+location_Geddalahalli,29281762953.0999,-0.305,-0.0
+location_Geleyara Balaga Layout,16909015399.1094,-0.105,-0.0
+location_Gidada Konnenahalli,17341659928173.66,0.0,0.0
+location_Giri Nagar,37795477642.2676,2.4968,1.3109
+location_Gkvk Layout,16909015400.3604,1.3112,0.2388
+location_Glass Factory Layout,23910709224.8779,-0.5367,-0.0
+location_Gokula Extension,16909015399.3198,0.0717,0.0
+location_Gollahalli,37795477639.1958,-0.5845,-0.0
+location_Gollarapalya Hosahalli,47794413411.4648,-0.7612,-0.0
+location_Gopalapura,16909015401.0996,1.8823,0.9622
+location_Gopalkrishna Nagar,33808485322.2637,0.0733,0.0
+location_Gottigere,80924784249.9375,-1.1983,-0.0685
+location_Govindapura,16909015399.4285,0.1935,0.0
+location_Govindpura,33808485321.7383,-0.5422,-0.0
+location_Gowdanapalya,23910709225.4238,0.0719,0.0
+location_Green Garden Layout,9325979564790.803,0.0,0.0
+location_Green Glen Layout,65402028246.8008,0.3308,0.0
+location_Green View Layout,41398973324.5273,-0.5517,-0.0
+location_Green Woods Layout,16909015399.2548,0.0003,0.0
+location_Gubbalala,58513902800.3828,0.1521,0.0
+location_Guddadahalli,16909015399.874,0.4599,0.0
+location_Gulimangala,16909015399.0059,-0.2246,-0.0
+location_Guni Agrahara,16909015399.9824,0.6825,0.0
+location_Gunjur,63190321468.1357,-0.9342,-0.0
+location_Gunjur Palya,37795477639.1006,-0.6546,-0.0
+location_HAL 2nd Stage,33808485326.4336,4.2391,2.8956
+location_HAL 3rd Stage,23910709227.4062,1.9741,0.9396
+location_HBR Layout,56028077657.3525,0.9771,0.0
+location_HMT Layout,29281762953.0234,-0.4061,-0.0
+location_HOSUR MAIN ROAD,37795477638.8257,-0.9291,-0.0
+location_HRBR Layout,53425710693.1016,1.251,0.3659
+location_HSR Layout,93879340052.7988,-0.5246,-0.0
+location_Hadosiddapura,16909015400.2856,1.0161,0.0
+location_Hagadur,-1321023165470.7415,0.0,0.0
+location_Hallehalli,16909015398.7568,-0.4911,-0.0
+location_Hanumanth Nagar,23910709225.0996,-0.2421,-0.0
+location_Haralur Road,158193246390.2422,-1.2227,-0.0
+location_Harlur,112958638779.1387,1.212,0.4539
+location_Hebbal,137544228914.0576,1.4916,0.9033
+location_Hebbal Kempapura,56028077658.668,2.2855,1.3082
+location_Hegde Nagar,75484133018.3369,0.3926,0.0
+location_Hegganahalli,23910709224.9192,-0.4465,-0.0
+location_Hennagara,16909015399.707,0.4138,0.0
+location_Hennur,96842046939.9199,-1.0019,-0.0
+location_Hennur Bande,23910709226.0618,0.6414,0.0
+location_Hennur Gardens,29281762953.9199,0.3482,0.0
+location_Hennur Road,141536550170.2934,0.2694,0.0
+location_Herohalli,16909015398.8477,-0.565,-0.0
+location_Hessarghatta,37795477639.3789,-0.4214,-0.0
+location_Himagiri Meadows,6910168453882.529,0.0,0.0
+location_Hiremath Layout,29281762953.1611,-0.2522,-0.0
+location_Hongasandra,33808485321.9299,-0.3386,-0.0
+location_Hoodi,106548925481.9394,0.0104,0.0
+"location_Hoodi Circle, ",23910709225.2607,-0.1503,-0.0
+location_Hoodi Layout,16909015399.353,0.1567,0.0
+location_Horamavu Agara,87646655956.5137,-1.0443,-0.0
+location_Horamavu Banaswadi,71624056611.585,-0.9443,-0.0
+location_Hormavu,106548925480.8936,-0.9776,-0.0
+location_Hosa Road,90817666620.8672,-0.0755,0.0
+location_Hosahalli Extension,16909015400.2461,1.1975,0.1163
+location_Hosakerehalli,50688855305.1094,0.1946,0.0
+location_Hosapalya,16909015400.1455,0.9026,0.0
+location_Hoskote,63190321467.8208,-1.2437,-0.1683
+location_Hosur Road,65402028246.7334,0.2829,0.0
+location_Hoysalanagar,37795477639.3086,-0.4769,-0.0
+location_Hulimavu,95372480654.3091,-0.2593,-0.0
+location_Huskur,37795477638.8272,-0.9667,-0.0
+location_ISRO Layout,41398973325.2388,0.1596,0.0
+location_ITI Layout,23910709225.4219,0.1088,0.0
+location_ITPL,33808485321.3633,-0.9882,-0.1715
+location_Iblur Village,37795477640.1992,0.4239,0.0
+location_Ilyas Nagar,16909015399.1621,-0.0575,-0.0
+location_Immadihalli,23910709225.2158,-0.1301,-0.0
+location_Indira Nagar,60897459458.4082,3.367,2.4765
+location_Indra Nagar,16909015401.5478,2.2785,1.2515
+location_Ittamadu,33808485321.9727,-0.3182,-0.0
+location_J C Nagar,77040381163577.36,0.0,0.0
+location_JCR Layout,29281762952.5792,-0.5311,-0.0
+location_JP Nagar,73579777830.3657,0.4908,0.0
+"location_JP Nagar 7th Phase, ",17945371615819.527,0.0,0.0
+location_Jai Bheema Nagar,16909015399.1641,-0.2335,-0.0
+location_Jakkasandra Extension,29281762953.8328,0.1216,0.0
+location_Jakkur,92361481818.3936,0.4727,0.0
+location_Jakkur Plantation,33808485322.3936,0.1304,0.0
+location_Jakkuru Layout,29281762953.0732,-0.3573,-0.0
+location_Jalahalli,67540552872.6426,0.5679,0.0
+location_Jalahalli East,47794413411.9277,-0.3097,-0.0
+location_Jalahalli West,33808485322.1531,-0.0264,0.0
+location_Janatha Colony,7905729604931.075,0.0,0.0
+location_Jayamahal,16909015400.7422,1.4994,0.524
+location_Jayanagar,14873476565093.412,0.0,0.0
+location_Jayanti Nagar,23910709225.168,-0.1892,-0.0
+location_Jeevan bima nagar,16909015400.2808,0.9948,0.0243
+location_Jigani,75484133018.209,0.0986,0.0
+location_Jinkethimmanahalli,16909015399.1221,-0.0215,-0.0
+location_Jnana Ganga Nagar,-44070830624031.85,0.0,0.0
+location_Jnanabharathi Layout,-14440187736838.26,0.0,0.0
+location_Judicial Layout,33808485323.3633,1.1708,0.0101
+"location_Judicial Layout, Kanakapura Road, ",-6595917586246.244,0.0,0.0
+location_Jyothi Nagar,16909015399.2363,-0.1275,-0.0
+location_KEB Colony,16909015399.2607,-0.0268,-0.0
+location_KR Garden,29281762954.1191,0.5837,0.0
+location_KR Layout,-25643510450064.973,0.0,0.0
+location_KR Puram,117827424375.3789,-1.146,-0.0
+location_KSRTC Layout,16909015399.1504,-0.0365,-0.0
+location_KUDLU MAIN ROAD,47794413411.0237,-1.2362,-0.2219
+location_Kachanayakanahalli,-43909599898836.37,0.0,0.0
+location_Kacharakanahalli,33808485321.897,-0.3413,-0.0
+location_Kada Agrahara,23910709225.1167,-0.2656,-0.0
+location_Kadabagere,29281762953.1289,-0.3376,-0.0
+location_Kadubeesanahalli,37795477639.2598,-0.4893,-0.0
+location_Kadugodi,69612640216.1582,-0.2204,-0.0
+location_Kadugondanahalli,23910709224.7915,-0.5332,-0.0
+location_Kaggadasapura,95372480653.3203,-1.3274,-0.128
+location_Kaggalipura,50688855304.7891,-0.1078,0.0
+location_Kaikondrahalli,53425710691.9221,0.0325,0.0
+location_Kalena Agrahara,73579777829.4551,-0.4275,-0.0
+location_Kalkere,33808485321.9004,-0.3118,-0.0
+location_Kallumantapa,29281762953.4033,-0.1199,-0.0
+location_Kalyan nagar,41398973324.8838,-0.1978,-0.0
+location_Kamakshipalya,33808485322.6289,0.3918,0.0
+location_Kamala Nagar,23910709225.4473,0.1778,0.0
+location_Kambipura,58513902799.9585,-0.3076,-0.0
+location_Kammagondahalli,23910709224.9082,-0.377,-0.0
+location_Kammanahalli,29281762954.3186,0.888,0.0
+location_Kammasandra,65402028245.4106,-1.0919,-0.0
+location_Kanaka Nagar,29281762953.3691,-0.276,-0.0
+location_Kanakapura,65402028246.1328,-0.3813,-0.0
+location_Kanakpura Road,126985957640.7598,-0.6061,-0.0
+location_Kannamangala,41398973325.3242,0.1762,0.0
+location_Karuna Nagar,37795477640.5137,0.7445,0.0
+location_Kasavanhalli,96842046941.2007,0.221,0.0
+location_Kashi Nagar,40601933755555.09,0.0,0.0
+location_Kasturi Nagar,47794413412.4912,0.2884,0.0
+location_Kathriguppe,65402028246.3906,-0.0957,0.0
+location_Kattigenahalli,16909015399.3125,0.1694,-0.0
+location_Kaval Byrasandra,56028077655.9644,-0.3843,-0.0
+location_Kaverappa Layout,29281762953.3867,-0.0711,-0.0
+location_Kaveri Nagar,30214358441155.29,0.0,0.0
+location_Kavika Layout,16909015398.9727,-0.3733,-0.0
+location_Kenchenahalli,53425710691.8711,-0.0189,0.0
+location_Kenchenhalli,16909015399.084,-0.2383,-0.0
+location_Kengeri,77340916606.3047,-0.393,-0.0
+location_Kengeri Hobli,23910709224.8574,-0.5115,-0.0
+location_Kengeri Satellite Town,80924784250.4424,-0.7683,-0.0
+location_Kereguddadahalli,56028077655.3867,-0.9674,-0.0
+location_Keshava Nagar,29281762954.6309,1.0471,0.0788
+location_Kirloskar Layout,-13447464444555.305,0.0,0.0
+location_Kithaganur,16909015398.7793,-0.3369,-0.0
+location_Kodathi,29281762952.9824,-0.5168,-0.0
+location_Kodbisanhalli,33808485322.2188,-0.0082,0.0
+location_Kodichikkanahalli,69612640215.6836,-0.6421,-0.0
+location_Kodigehaali,47794413411.9082,-0.4025,-0.0
+location_Kodigehalli,37795477640.8838,1.1372,0.2366
+location_Kodihalli,23910709225.6934,0.3788,0.0
+location_Kodipalya,16909015398.7969,-0.3556,-0.0
+location_Kogilu,50688855304.624,-0.2783,-0.0
+location_Konanakunte,29281762953.5586,0.1238,0.0
+location_Konanakunte Cross,23910709224.9268,-0.373,-0.0
+location_Konena Agrahara,16909015398.9971,-0.0298,0.0
+location_Koramangala,77340916610.29,3.5987,2.779
+location_Kothannur,60897459453.9912,-1.013,-0.0
+location_Kothanur,109159463658.0684,-0.6617,-0.0
+location_Kothnoor Dinne,16909015398.8892,-0.2896,-0.0
+location_Kothnur Narayanapura,9888884905491.684,0.0,0.0
+location_Krishna Nagar,16909015399.3127,0.0181,-0.0
+location_Kudlu,67540552871.4805,-0.5677,-0.0
+location_Kudlu Gate,84353978442.4899,-0.111,-0.0
+location_Kullappa Colony,16909015399.2715,0.0383,0.0
+location_Kumara Park,-87744983261134.78,0.0,0.0
+location_Kumarapalli,29281762953.0234,-0.4929,-0.0
+location_Kumaraswami Layout,50688855305.5664,0.657,0.0
+location_Kumbena Agrahara,16909015399.1728,-0.2033,-0.0
+location_Kundalahalli,69612640217.6636,1.2912,0.4365
+location_Kundalahalli Colony,33808485322.0566,-0.1684,-0.0
+location_Kurubarahalli,29281762953.291,-0.1475,-0.0
+location_Kuvempu Nagar,16909015399.993,0.7741,0.0
+location_LB Shastri Nagar,33808485322.1621,-0.0354,0.0
+location_Laggere,33808485322.2734,0.03,-0.0
+location_Lake City,29281762953.2773,-0.1659,-0.0
+location_Lakshmi Layout,23910709225.7188,0.3214,0.0
+location_Lakshminarayana Pura,65402028247.1051,0.6291,0.0
+location_Lakshmipura,16909015399.1919,-0.1586,-0.0
+location_Langford Town,23910709225.876,0.544,0.0
+location_Lavakusha Nagar,16909015399.033,-0.2977,-0.0
+location_Lavelle Road,23910709228.0283,2.7469,1.8081
+location_Laxmi Sagar Layout,23910709225.6699,0.2294,0.0
+location_Lingadheeranahalli,60897459455.2695,0.2932,0.0
+location_Lingarajapuram,33808485322.1504,-0.0919,-0.0
+location_Lottegolla Halli,16909015398.915,-0.4007,-0.0
+location_M V Extenstion,23910709226.2188,0.9551,0.0
+location_MCECHS  layout,23910709224.9602,-0.3695,-0.0
+location_MLA Layout,16909015399.0371,-0.1727,-0.0
+location_MS Pallya,29281762953.4863,0.1091,0.0
+location_Madavara,16909015399.2812,-0.1789,-0.0
+location_Madiwala,33808485321.7632,-0.4588,-0.0
+location_Magadi Road,58513902799.9961,-0.2783,-0.0
+location_Mahadevpura,69612640215.7109,-0.6416,-0.0
+location_Mahaganapathy Nagar,16909015399.2402,-0.0855,-0.0
+location_Mahalakshmi Layout,37795477640.7598,0.9784,0.0
+location_Mahalakshmi Puram,23910709226.7028,1.3792,0.2879
+location_Maithri Layout,23910709224.6094,-0.7069,-0.0
+location_Mallasandra,53425710691.5225,-0.3914,-0.0
+location_Mallathahalli,16909015399.2393,-0.0086,0.0
+location_Malleshpalya,53425710691.3144,-0.5882,-0.0
+location_Malleshwaram,60897459457.1621,2.1002,1.2938
+location_Manayata Tech Park,33808485321.8516,-0.3651,-0.0
+location_Mangammanapalya,16909015398.9512,-0.2562,-0.0
+location_Manjunath Nagar,23910709226.4727,1.1338,0.0
+location_Manjunatha Layout,16909015399.8145,0.5522,0.0
+location_Manorayana Palya,23910709225.0996,-0.2947,-0.0
+location_Maragondanahalli,29281762953.2251,-0.3038,-0.0
+location_Marasandra,132365679741258.23,0.0,0.0
+location_Marathahalli,151031500685.4531,0.0211,0.0
+location_Marenahalli,23345.4775,0.0,0.0
+location_Margondanahalli,69612640215.5723,-0.8089,-0.0
+location_Mariyannapalya,16909015399.1728,-0.0037,0.0
+location_Marsur,33808485322.416,0.1641,-0.0
+location_Maruthi Nagar,29281762952.7808,-0.5976,-0.0
+location_Maruthi Sevanagar,23910709225.1953,-0.1301,-0.0
+location_Mathikere,33808485323.2227,1.0048,0.0944
+location_Medahalli,23910709225.1592,-0.1103,-0.0
+location_Mico Layout,50688855303.8228,-0.9509,-0.0
+location_Moodalapalya,16909015399.3345,0.1258,0.0
+location_Motappa Layout,29281762953.0972,-0.3324,-0.0
+location_Muneshwara Nagar,23910709224.8125,-0.462,-0.0
+location_Munivenkatppa Layout,16909015400.4849,1.2038,0.2498
+location_Munnekollal,65402028246.055,-0.4384,-0.0
+location_Murugeshpalya,47794413411.6699,-0.6235,-0.0
+location_Mylasandra,23910709225.0674,-0.2412,-0.0
+location_Mysore Road,87646655957.6963,0.1014,0.0
+location_NGR Layout,47794413411.8613,-0.3789,-0.0
+location_NRI Layout,44711791138.2817,-0.4715,-0.0
+location_Nagadevanahalli,41398973324.8301,-0.2009,-0.0
+location_Naganathapura,47794413411.6992,-0.6075,-0.0
+location_Nagappa Reddy Layout,33808485321.6338,-0.5754,-0.0
+location_Nagaraja Garden,29281762953.2653,-0.1742,-0.0
+location_Nagarbhavi,82657492019.6328,2.6988,1.64
+location_Nagasandra,44711791138.9275,0.1614,0.0
+location_Nagashetty Halli,23910709225.1774,-0.1301,-0.0
+location_Nagavara,37795477639.3281,-0.3931,-0.0
+location_Nagavarapalya,44711791139.7227,0.9382,0.0705
+location_Nagawara Junction,23910709224.9658,-0.3824,-0.0
+location_Nagondanahalli,33808485321.6147,-0.6099,-0.0
+location_Naidu Layout,16909015399.1951,-0.0088,-0.0
+location_Nallurhalli,37795477639.7266,-0.1079,-0.0
+location_Nandini Layout,16909015399.9062,0.591,0.0
+location_Nanjappa Layout,16909015398.8994,-0.3278,-0.0
+location_Narayana Nagar 1st Block,16909015399.0254,-0.2076,-0.0
+location_Narayanapura,37795477639.8457,0.0633,0.0
+location_Nayandanahalli,33808485321.9053,-0.2906,-0.0
+location_Neeladri Nagar,33808485321.7168,-0.5015,-0.0
+location_Neelamangala,0.0,0.0,0.0
+location_Nehru Nagar,29281762953.3496,-0.2763,-0.0
+location_Nelamangala,29281762953.1113,-0.4091,-0.0
+location_New Gurappana Palya,16909015399.082,-0.1858,-0.0
+location_New Thippasandra,29281762953.9141,0.5486,0.0
+location_Nobo Nagar,23910709224.9785,-0.479,-0.0
+location_Nyanappana Halli,29281762953.2751,-0.1938,-0.0
+location_OLd Gurappanapalya,16909015398.7031,-0.4975,-0.0
+location_OMBR Layout,44711791139.1836,0.3814,0.0
+"location_Off Sarjapur Road, ",23910709225.227,-0.1814,-0.0
+location_Old Airport Road,41398973325.3203,0.2588,0.0
+location_Old Madras Road,77340916606.6728,0.0343,0.0
+location_Outer Ring Road East,23910709225.4121,0.045,0.0
+location_P&T Layout,23910709224.8516,-0.5344,-0.0
+location_Padmanabhanagar,37795477639.8257,0.0766,0.0
+location_Pai Layout,60897459454.4785,-0.5608,-0.0
+location_Palace Guttahalli,23910709226.8516,1.5288,0.4652
+location_Palace Road,-0.0,0.0,0.0
+location_Pampa Extension,23910709225.4688,0.0745,0.0
+location_Panathur,77340916607.1533,0.4482,0.0
+location_Parappana Agrahara,58513902799.2734,-0.9772,-0.0
+location_Patelappa Layout,16909015401.002,1.8514,0.7741
+location_Pattanagere,33808485321.6758,-0.553,-0.0
+location_Pattandur Agrahara,44711791138.4375,-0.3245,-0.0
+location_Peenya,41398973325.1709,0.1002,0.0
+location_Phase 1 Kammasandra,16909015398.7949,-0.4695,-0.0
+location_Poorna Pragna Layout,41398973324.6919,-0.3674,-0.0
+location_Poornapragna Housing Society Layout,23910709225.0762,-0.2795,-0.0
+location_Postal Colony,16909015400.8145,1.5722,0.6381
+location_Pragathi Nagar,23910709225.291,-0.1892,-0.0
+location_Prashanth Nagar,23910709227.1035,1.8335,0.7731
+location_Prithvi Layout,37795477639.9597,0.1934,0.0
+location_Pulkeshi Nagar,16909015399.9448,0.642,0.0
+location_Puttanahalli,23910709225.0308,-0.2922,-0.0
+location_R.T. Nagar,53425710692.791,0.8419,0.0
+location_RMV 2nd Stage,23910709229.0684,3.7788,2.6527
+location_RMV Extension,23910709225.1235,-0.2043,-0.0
+location_RPC layout,23910709225.4282,0.0803,0.0
+location_RWF West Colony,23910709225.1641,-0.1744,-0.0
+location_Rachenahalli,65402028246.3256,-0.1975,-0.0
+location_Raghavendra Layout,23910709225.2725,-0.1921,-0.0
+location_Raghavendra Nagar,935145315793011.5,0.0,0.0
+location_Raghuvanahalli,23910709224.9971,-0.346,-0.0
+location_Raja Rajeshwari Nagar,169142320515.541,-2.2507,-0.8777
+location_Raja Rajeshwari Nagar 5th Stage,29281762953.3789,-0.0861,-0.0
+location_Rajaji Nagar,89246547444.9482,7.8454,6.9148
+location_Rajarajeshwari Nagara,16909015402.3203,3.0924,1.9378
+location_Rajarajeshwari nagar,16909015402.4922,3.0924,1.9378
+location_Rajiv Gandhi Nagar,33808485322.3828,0.1582,0.0
+location_Rajiv Nagar,29281762953.8013,0.3673,0.0
+location_Ramagondanahalli,63190321468.0976,-0.9756,-0.0
+location_Ramakrishnappa Layout,16909015400.6455,1.3729,0.4212
+location_Ramamurthy Nagar,98289096329.1465,-0.6148,-0.0
+location_Ramamurthy Nagar Extension,29281762952.7783,-0.6891,-0.0
+location_Ramanashree Enclave,16909015399.2563,-0.0034,0.0
+location_Ramanjaneyanagar,29281762952.9219,-0.5665,-0.0
+location_Ramesh Nagar,16909015399.5049,0.3028,0.0
+location_Rayasandra,65402028245.6328,-0.845,-0.0
+location_Reliaable Tranquil Layout,33808485321.8066,-0.3817,-0.0
+location_Remco Bhel Layout,16909015399.3613,0.1177,0.0
+location_Richards Town,29281762954.4805,1.0951,0.1453
+location_Richmond Town,16909015399.9629,0.7047,0.0
+location_Roopena Agrahara,29281762953.6023,0.0995,0.0
+location_Rustam Bagh Layout,23910709225.6509,0.3083,0.0
+location_SBM Colony,16909015403.3594,4.2758,2.9163
+location_SMV layout,23910709226.3594,0.9453,0.0
+location_SRINIVASAPURA,16909015398.7849,-0.3192,-0.0
+location_Sadaramangala,16909015398.8652,-0.3471,-0.0
+location_Sahakara Nagar,86016386716.8106,0.3104,0.0
+location_Sai Gardens,23910709224.8965,-0.4319,-0.0
+location_Samethanahalli,33808485322.1289,-0.1237,-0.0
+location_Sampangi Rama Nagar,16909015399.575,0.3383,0.0
+location_Sampigehalli,16909015398.8557,-0.338,-0.0
+location_Sanjay nagar,50688855306.1728,1.2495,0.3677
+location_Sanne Amanikere,16909015398.5791,-0.576,-0.0
+location_Sarakki Nagar,29281762954.0117,0.5416,0.0
+location_Sarjapur,102504605430.4033,-1.8127,-0.5865
+location_Sarjapur  Road,186099355765.6653,0.624,0.0072
+"location_Sarjapur Road, ",29281762953.4023,-0.0068,0.0
+location_Sarjapura - Attibele Road,53425710690.6387,-1.2926,-0.1737
+location_Sarvabhouma Nagar,23910709226.1309,0.7168,0.0
+location_Sathya Layout,23910709225.582,0.2276,0.0
+location_Sector 1 HSR Layout,37795477640.4014,0.626,0.0
+location_Sector 2 HSR Layout,47794413412.8789,0.6371,0.0
+location_Sector 7 HSR Layout,44711791140.1531,1.3595,0.3981
+location_Seegehalli,44711791138.1836,-0.5464,-0.0
+location_Seetharampalya,41398973324.8369,-0.2325,-0.0
+location_Seshadripuram,28342581128783.86,0.0,0.0
+location_Shampura,44711791138.3315,-0.4401,-0.0
+location_Shankarapuram,16909015399.8018,0.6887,0.0
+location_Shanthala Nagar,23910709227.165,1.8399,0.8809
+location_Shanthi Layout,16909015399.1406,-0.1474,-0.0
+location_Shanti Nagar,23910709226.0908,0.7936,0.0
+location_Shantiniketan Layout,16909015399.0698,-0.0103,0.0
+location_Shettigere,186940444191834.0,0.0548,0.0
+location_Shikaripalya,37795477639.0044,-0.7676,-0.0
+location_Shingapura,16909015398.5664,-0.642,-0.0
+location_Shirdi Sai Layout,16909015399.3174,-0.0058,-0.0
+location_Shivaji Nagar,37795477640.3848,0.6291,0.0
+location_Shree Ananth Nagar Layout,23910709224.9268,-0.4372,-0.0
+location_Siddapura,23910709225.9953,0.5851,0.0
+location_Sidedahalli,23910709225.1475,-0.2345,-0.0
+location_Silk Board,29281762952.929,-0.5372,-0.0
+location_Silver Springs Layout,16909015399.1687,-0.1208,-0.0
+location_Singanayakanahalli,16909015399.0938,-0.2002,-0.0
+location_Singapura Village,23910709225.1836,-0.1633,-0.0
+location_Singasandra,69612640215.7871,-0.5823,-0.0
+location_Singena Agrahara,16909015399.29,0.0728,0.0
+location_Sneha Colony,16909015399.7166,0.4627,0.0
+location_Somasundara Palya,44711791138.5684,-0.1994,-0.0
+location_Someshwara Layout,16909015400.4082,1.2547,0.1904
+location_Sompura,37795477639.0156,-0.7588,-0.0
+location_Sonnenahalli,50688855304.5273,-0.3785,-0.0
+location_Soundarya Layout,16909015399.0127,-0.2598,-0.0
+location_Sri Balaji Krupa Layout,16909015400.9761,1.8029,0.7116
+location_Sri Sai Layout,16909015399.0117,-0.3243,-0.0
+location_Sri Venkateshpura Layout,0.0,0.0,0.0
+location_Srinagar,16909015400.2061,0.8998,0.0
+location_Srinivasa Nagar,33808485322.3506,0.1558,0.0
+location_Srirampura,29281762954.2742,0.8549,0.0
+location_Srirampuram,23910709226.2969,0.9393,0.0156
+location_Stage-4 Bommanahalli,23910709224.9072,-0.4286,-0.0
+location_Subash Nagar,16909015399.166,-0.1752,-0.0
+location_Subramanyapura,77340916606.6553,-0.0291,0.0
+location_Suddaguntepalya,23910709224.8633,-0.5631,-0.0
+location_Sultan Palaya,44711791138.9692,0.199,0.0
+location_Sunkadakatte,23910709224.764,-0.6456,-0.0
+location_Surabhi Layout,16909015399.4785,0.1798,0.0
+location_Suraksha Nagar,23910709224.6996,-0.6274,-0.0
+location_Syndicate Bank Colony,16909015400.9651,1.7149,0.6026
+location_T Dasarahalli,23910709225.834,0.3706,0.0
+location_T.C PALYA,213258943557937.25,0.0,0.0
+location_TC Palaya,75484133017.1875,-0.7644,-0.0
+location_Tala Cauvery Layout,29281762953.5273,0.1158,0.0
+location_Talaghattapura,56028077655.8906,-0.4605,-0.0
+location_Tasker Town,23910709225.5342,0.1512,0.0
+location_Tata Nagar,16909015398.8872,-0.3316,-0.0
+location_Tavarekere,0.0,0.0,0.0
+location_Tejaswini Nagar,33808485321.4746,-0.7265,-0.0
+location_Telecom Layout,23910709225.165,-0.2324,-0.0
+location_Thanisandra,141536550170.6055,0.6095,0.0
+location_Thigalarapalya,63190321470.2793,1.2814,0.4476
+location_Thippasandra,23910709225.377,0.0462,0.0
+location_Thirumenahalli,37795477638.8057,-0.9681,-0.0
+location_Thomas Town,-0.0,0.0,0.0
+location_Thubarahalli,50688855305.2554,0.3717,0.0
+location_Thurahalli,23910709225.4785,0.1463,0.0
+location_Thyagaraja Nagar,16909015401.0381,1.7941,0.8604
+location_Tigalarpalya,-0.0,0.0,0.0
+location_Tindlu,47794413411.875,-0.3566,-0.0
+location_Tirumanahalli,23910709225.1182,-0.286,-0.0
+location_Tumkur Road,67540552872.5498,0.422,0.0
+location_Tunganagara,16909015398.7539,-0.5185,-0.0
+location_Uday Nagar,16909015398.8633,-0.3597,-0.0
+location_Udaya Nagar,16909015399.2676,-0.1064,-0.0
+location_Udayapur Village,16909015398.9941,-0.2817,-0.0
+location_Ullal Road,23910709226.9297,1.5192,0.3183
+location_Ullal Uppanagar,16909015400.0039,0.7328,0.0
+location_Ulsoor,41398973326.8325,1.7654,0.7468
+location_Upadhyaya Layout,16909015399.0391,-0.1413,-0.0
+location_Upkar Layout,23910709226.0625,0.6716,0.0
+location_Uttarahalli,162498383760.6719,-2.0383,-0.6784
+location_VGP Layout,23910709225.2078,-0.1682,-0.0
+location_Vadarpalya,-0.0,0.0,0.0
+location_Vajarahalli,37795477639.1973,-0.5039,0.0
+location_Varanasi,23910709225.2676,-0.1524,-0.0
+location_Varsova Layout,16909015399.0664,-0.2648,-0.0
+location_Varthur,102504605431.0308,-1.1481,-0.0
+location_Varthur Road,37795477639.2422,-0.4949,-0.0
+"location_Varthur Road, ",16909015399.0967,-0.1514,-0.0
+location_Vasanth nagar,16909015400.2266,0.9798,0.0
+location_Vasantha Vallabha Nagar,23910709225.3379,0.0388,0.0
+location_Vasanthapura,33808485321.7197,-0.5041,-0.0
+location_Vasanthpura,23910709225.082,-0.2848,-0.0
+location_Veerannapalya,23910709225.0132,-0.3789,-0.0
+location_Veersandra,16909015398.9897,-0.2075,-0.0
+location_Venkatadri Layout,23910709225.7646,0.371,0.0
+location_Venkatapura,16909015400.1328,0.9467,0.0228
+location_Venugopal Reddy Layout,19037606295390.92,0.0,0.0
+location_Vibhutipura Extension,16909015398.9766,-0.2509,-0.0
+location_Victoria Layout,14393724367087.346,0.0,0.0
+location_Vidyaranyapura,67540552871.6445,-0.4463,-0.0
+location_Vignana Nagar,33808485322.0913,-0.0837,-0.0
+location_Vijaya Bank Layout,16909015399.1523,-0.1312,-0.0
+location_Vijayanagar,77340916607.5508,0.8158,0.0
+location_Vijinapura,16909015399.1509,0.0032,0.0
+location_Vimanapura,16909015399.0254,-0.2939,-0.0
+location_Vinayak Nagar,23910709225.2908,-0.0427,0.0
+location_Vinayaka Nagar,29281762953.1458,-0.2888,-0.0
+location_Virat Nagar,29281762953.1602,-0.3014,-0.0
+location_Virupakshapura,16909015399.2022,-0.0572,-0.0
+location_Vishveshwarya Layout,29281762954.6719,1.0886,0.0
+location_Vishwanatha Nagenahalli,23910709225.6289,0.2119,0.0
+location_Vishwapriya Layout,33808485321.9343,-0.2852,-0.0
+location_Vishwapriya Nagar,16909015398.9629,-0.162,-0.0
+location_Vittal Nagar,23910709225.1162,-0.1967,-0.0
+location_Vittasandra,84353978442.1885,-0.3458,-0.0
+location_Volagerekallahalli,37795477639.01,-0.7257,-0.0
+location_Vyalikaval,23910709226.043,0.7005,0.0
+location_Whitefield,187558018855.6562,1.1762,0.5718
+"location_Whitefield, ",16909015399.0737,-0.2079,-0.0
+location_Wilson Garden,33808485323.3359,1.0726,0.0441
+location_Yarandahalli,16909015399.0584,-0.1655,-0.0
+location_Yelachenahalli,47794413412.668,0.4334,0.0
+location_Yelahanka,131316096044.25,-0.0814,0.0
+location_Yelahanka New Town,67540552871.7793,-0.3583,-0.0
+location_Yelenahalli,29281762952.8267,-0.4787,-0.0
+location_Yemlur,23910709225.2554,-0.1196,-0.0
+location_Yeshwanthpur,90817666622.4438,1.543,0.7613
+location_manyata park,0.0,0.0,0.0
+location_tc.palya,23910709224.8953,-0.4096,-0.0
+Intercept,72.5602,72.547,72.547
+RMSE,31683588901845.926,18.7645,20.8306
